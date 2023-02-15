@@ -97,3 +97,4 @@ IAM user’s username and password for logging in to AWS
 A private subsection of AWS you control and in which you can place AWS resources
 
 Many of these terms and simplified definitions were pulled from our AWS Certified Cloud Practitioner course and our AWS Essentials course.
+
