@@ -16,4 +16,7 @@ If you have little to no experience with AWS, this course is designed to help yo
 
 LINK: https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
 
+### Overview of Amazon Web Services, AWS Whitepaper
+
+LINK: https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf
 
